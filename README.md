@@ -82,8 +82,10 @@ Kaggle官网数据科学课程的中文翻译计划
   
   二维码：
   
-  ![image-20201103195902184](/Users/qisibo/Library/Application Support/typora-user-images/image-20201103195902184.png)
+  ![image.png](https://i.loli.net/2020/11/04/IdRxT867AasMkPu.png)
   
   
+  
+  主要协作文件位于 群应用->腾讯文档 中的《KaggleCourses_CN项目协作主文件》 ，会随项目进行随时更新，请注意及时查阅。
   
   发起人：AriK
